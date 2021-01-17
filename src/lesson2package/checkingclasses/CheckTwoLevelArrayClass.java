@@ -34,8 +34,4 @@ public class CheckTwoLevelArrayClass {
     public static int getValueCounter(){
         return valueCounter;
     }
-
-    public static int getLength(){
-        return LENGTH;
-    }
 }
